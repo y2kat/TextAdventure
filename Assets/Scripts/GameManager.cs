@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+      
         textoPreguntas.text = preguntas[indicePregunta];
         //Debug.Log(preguntas.Length);
         //Debug.Log(palabrasGuardadas.Length);
